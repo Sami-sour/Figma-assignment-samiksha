@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://localhost:5173/figma-assignment/",
+  "homepage": "http://localhost:5173/Figma-assignment-samiksha/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
